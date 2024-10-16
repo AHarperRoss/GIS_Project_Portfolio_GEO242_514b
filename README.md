@@ -15,4 +15,4 @@ Alice Ross
 - [Understanding Latitude and Longitude](https://github.com/AHarperRoss/gis-project-portfolio-geo242-514b/blob/main/Map-Coordinate-Basics/Understanding-Latitude-and-Longitude.ipynb)
 
 ## Raster Data Analysis
-- https://github.com/AHarperRoss/gis-project-portfolio-geo242-514b/blob/main/Raster-Data-Analysis/Band_Composition_For_Landsat.ipynb 
+- [Band Composition For Landsat](https://github.com/AHarperRoss/gis-project-portfolio-geo242-514b/blob/main/Raster-Data-Analysis/Band_Composition_For_Landsat.ipynb)
