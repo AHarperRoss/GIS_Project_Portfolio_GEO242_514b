@@ -16,3 +16,4 @@ Alice Ross
 
 ## Raster Data Analysis
 - [Band Composition For Landsat](https://github.com/AHarperRoss/gis-project-portfolio-geo242-514b/blob/main/Raster-Data-Analysis/Band_Composition_For_Landsat.ipynb)
+- [Oxford, Ohio Raster Data Analysis](https://github.com/AHarperRoss/gis-project-portfolio-geo242-514b/blob/main/Raster-Data-Analysis/Oxford-Ohio-Raster-Data-Analysis.ipynb)
