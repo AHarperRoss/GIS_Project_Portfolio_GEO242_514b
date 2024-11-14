@@ -19,4 +19,5 @@ Alice Ross
 - [Oxford, Ohio Raster Data Analysis](https://github.com/AHarperRoss/gis-project-portfolio-geo242-514b/blob/main/Raster-Data-Analysis/Oxford-Ohio-Raster-Data-Analysis.ipynb)
 
 ## Spatial Analysis
-- [Replicating John Snow Cholera Discovery](https://github.com/AHarperRoss/gis-project-portfolio-geo242-514b/blob/main/Spatial_Analysis/Replicating_John_Snow_Cholera_Discovery.ipynb) 
+- [Replicating John Snow Cholera Discovery](https://github.com/AHarperRoss/gis-project-portfolio-geo242-514b/blob/main/Spatial_Analysis/Replicating_John_Snow_Cholera_Discovery.ipynb)
+- [Working with U.S. Census Data for Spatial Analysis](https://github.com/AHarperRoss/gis-project-portfolio-geo242-514b/blob/main/Spatial_Analysis/Working_with_US_Census_Data_for_Spatial_Analysis.ipynb)
