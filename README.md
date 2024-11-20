@@ -25,3 +25,6 @@ Alice Ross
 ## Spatial Analysis for Vector Data
 - [Replicating John Snow Cholera Discovery](https://github.com/AHarperRoss/gis-project-portfolio-geo242-514b/blob/main/Spatial_Analysis/Replicating_John_Snow_Cholera_Discovery.ipynb)
 - [Working with U.S. Census Data for Spatial Analysis](https://github.com/AHarperRoss/gis-project-portfolio-geo242-514b/blob/main/Spatial_Analysis/Working_with_US_Census_Data_for_Spatial_Analysis.ipynb)
+
+## Web-Based Mapping
+- [Exploring the 1854 Cholera Outbreak in London](https://miamioh.maps.arcgis.com/apps/instant/sidebar/index.html?appid=0374b956477449a7917df491ceb982cf)
