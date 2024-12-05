@@ -2,10 +2,10 @@
 
 Alice Ross
 
-## Content
-### Overview
+## Overview
 - This repository contains Google Colab Notebooks prepared for GEO 242 @Miami University in Oxford, Ohio
 
+## Content
 ### Basic Mapping
 - [North American Rivers and Basins](https://github.com/AHarperRoss/gis-project-portfolio-geo242-514b/blob/main/basic-mapping/North-American-Rivers-and-Basins-Mapping.ipynb)
 
