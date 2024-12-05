@@ -28,3 +28,4 @@ Alice Ross
 
 ## Web-Based Mapping
 - [Exploring the 1854 Cholera Outbreak in London](https://miamioh.maps.arcgis.com/apps/instant/sidebar/index.html?appid=0374b956477449a7917df491ceb982cf)
+- [Dr. John Snow's Discovery of Cholera Outbreaks in Soho 1854 Story Map](https://arcg.is/1vn4SD4)
